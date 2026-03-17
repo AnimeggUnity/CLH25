@@ -1,0 +1,12 @@
+*.log
+*.txt
+.claude/
+CLAUDE.md
+123.py
+test.py
+check_com.py
+debug_raw.py
+modbus_reader.py
+get_sn.py
+__pycache__/
+*.pyc
