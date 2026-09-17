@@ -1,0 +1,4 @@
+# 本 repo 只放說明書
+*.log
+*.tmp
+.DS_Store
